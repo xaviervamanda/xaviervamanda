@@ -16,5 +16,7 @@
 <br />
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
 <br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={xaviervamanda}&theme={dark}" />
+
