@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/amandavxavier/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/amandavxavier/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
 </a>
 
