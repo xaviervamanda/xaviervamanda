@@ -18,9 +18,16 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviervamanda&theme=dark" />
+<details>
+  <summary>📈 GitHub Statistics</summary>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviervamanda&theme=dark" />
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviervamanda&theme=dark" />
+<details>
+  <summary>📊 Most Used Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviervamanda&theme=dark" />
+</details>
+
 
 
 
