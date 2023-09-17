@@ -2,6 +2,9 @@
 
 ## Quem sou eu?
 <div  align = "flex-start" style ="display: none;">
+  <p>Olá! Meu nome é Amanda e sou densenvolvedora full stack!</p>
+  <p>Minha trajetória se iniciou na Química na UFRJ, onde me apaixonei pela tecnologia quando tive meu primeiro contato com Python. Fiz o curso de Desenvolvedora Full Stack da [Driven] (https://www.driven.com.br/) para aprimorar minhas habilidades, realizando mais de 20 projetos práticos, reproduzindo o ritmo e as demandas de times de tecnologia reais.</p>
+</div>
   
 ### 💻 Principais tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -16,6 +19,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat)
 <br />
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
