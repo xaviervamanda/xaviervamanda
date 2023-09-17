@@ -18,5 +18,5 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user={xaviervamanda}&theme={dark}" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviervamanda&theme=dark" />
 
