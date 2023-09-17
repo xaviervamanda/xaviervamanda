@@ -19,7 +19,7 @@
 <br />
 
 <details>
-  <summary>📈 GitHub Statistics</summary>
+  <summary>📈 <h3>GitHub Statistics</h3></summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviervamanda&theme=dark" />
 </details>
 
