@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary>📊 Most Used Languages</summary>
+  <summary>📊 <h3>Most Used Languages</h3></summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviervamanda&theme=dark" />
 </details>
 
