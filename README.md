@@ -1,6 +1,4 @@
-<a href="https://www.linkedin.com/in/amandavxavier/" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandavxavier/)](https://www.linkedin.com/in/amandavxavier/)
 
 ### 💻 Principais tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
