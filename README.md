@@ -20,3 +20,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviervamanda&theme=dark" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviervamanda&theme=dark" />
+
+
+
