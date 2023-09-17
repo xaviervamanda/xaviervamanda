@@ -3,6 +3,7 @@
 ## Quem sou eu?
 
 Olá! Meu nome é Amanda e sou densenvolvedora full stack!</br>
+</br>
 Minha trajetória se iniciou na Química na UFRJ, onde me apaixonei pela tecnologia quando tive meu primeiro contato com Python. Fiz o curso de Desenvolvedora Full Stack da [Driven](https://www.driven.com.br/) para aprimorar minhas habilidades, realizando mais de 20 projetos práticos, reproduzindo o ritmo e as demandas de times de tecnologia reais.
   
 ### 💻 Principais tecnologias
