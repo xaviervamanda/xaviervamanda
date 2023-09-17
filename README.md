@@ -19,12 +19,12 @@
 <br />
 
 <details>
-  <summary><h3>📈 GitHub Statistics</h3></summary>
+  <summary><h3>📈 Estatística do GitHub </h3></summary>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaviervamanda&theme=dark" />
 </details>
 
 <details>
-  <summary><h3>📊 Most Used Languages</h3></summary>
+  <summary><h3>📊 Linguagens mais utilizadas</h3></summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xaviervamanda&theme=dark" />
 </details>
 
