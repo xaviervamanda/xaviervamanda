@@ -26,6 +26,7 @@ Minha trajetória se iniciou na Química na UFRJ, onde me apaixonei pela tecnolo
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 <br />
 <br/>
+<br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)
